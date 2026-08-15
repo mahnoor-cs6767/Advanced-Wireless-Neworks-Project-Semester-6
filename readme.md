@@ -70,6 +70,14 @@ The simulations use direct A/B comparison under similar conditions, including th
 git clone https://github.com/mahnoor-cs6767/Advanced-Wireless-Networks-Project-Semester-6.git
 cd Advanced-Wireless-Networks-Project-Semester-6
 
+### 2. Install Required Libraries
+
+pip install -r requirements.txt
+
+### 3. Run the Simulation
+
+python wireless_network_simulation.py
+
 
 ## 🎯 Key Findings
 
