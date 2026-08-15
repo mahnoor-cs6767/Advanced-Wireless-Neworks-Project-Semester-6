@@ -62,6 +62,15 @@ The simulations use direct A/B comparison under similar conditions, including th
 
 ---
 
+## 🚀 How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/mahnoor-cs6767/Advanced-Wireless-Networks-Project-Semester-6.git
+cd Advanced-Wireless-Networks-Project-Semester-6
+
+
 ## 🎯 Key Findings
 
 - 📶 **Wi-Fi 6** provides significantly higher throughput.
