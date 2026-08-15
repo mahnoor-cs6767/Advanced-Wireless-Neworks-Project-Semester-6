@@ -3,7 +3,7 @@
 📌 **Project Title:** Performance Comparison of Bluetooth vs Wi-Fi Using Simulation  
 📚 **Course:** Advanced Wireless Networks  
 🎓 **Semester:** 6th Semester  
-👩‍💻 **Group Members:** Areeba Hameed, Irza Hameed & Mahnoor Sajjad  
+👩‍💻 **Group Members:** Mahnoor Sajjad  
 
 ---
 
